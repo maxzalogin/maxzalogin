@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/work_zalogin" target="_blank">Maksim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior developer from Moscow 🇷🇺 </h3>
+<h3 align="center">Developer from Moscow 🇷🇺 </h3>
 
 
 ### Abour for me: ###
